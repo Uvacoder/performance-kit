@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/code-mattclaffey/performance-kit/issues"
   },
-  "homepage": "https://github.com/code-mattclaffey/performance-kit#readme",
+  "homepage": "https://performance-kit.vercel.app",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-navigation": "^0.1.3",
